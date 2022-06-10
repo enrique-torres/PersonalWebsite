@@ -1,0 +1,1 @@
+This is the repo for the HTML, CSS and code used in my personal website. Everything is open-source under the GPL v3.0 license.
